@@ -128,7 +128,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"#TF_Continue"
+		"labelText"		"Continue (&E)"
 		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
