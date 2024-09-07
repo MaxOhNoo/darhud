@@ -1300,8 +1300,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
-		"labeltext" "#MMenu_Shop"
-		"command" "engine open_store"
+		"labeltext" "#MMenu_Servers"
+		"command" "engine gamemenucommand openserverbrowser"
 		"proportionaltoparent"	"1"
 
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -1327,7 +1327,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"scaleImage"	"1"
-			"image" "glyph_store"
+			"image" "glyph_server"
 			"proportionaltoparent"	"1"
 		}
 	}	
