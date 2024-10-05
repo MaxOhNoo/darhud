@@ -1736,7 +1736,7 @@
 		"zpos"			"7"
 		"wide"			"196"
 		"tall"			"134"
-		"visible"		"0"
+		"visible"		"1"
 
 		"TitleLabel"
 		{
@@ -1769,7 +1769,7 @@
 			"zpos"			"501"
 			"wide"			"f0"
 			"tall"			"f0"
-			"visible"		"0"
+			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"bgcolor_override" "BackgroundDefault"
 
