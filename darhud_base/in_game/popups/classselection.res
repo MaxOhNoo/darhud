@@ -824,7 +824,35 @@
 			"scaleImage"	"1"
 		}
 	}
-
+	
+	"EditLoadoutButtonLetter"  
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"EditLoadoutButtonLetter"
+		"xpos"			"10000"
+		"ypos"			"10000"
+		"zpos"			"6"
+		"wide"			"50"
+		"tall"			"14"
+		"autoResize"	"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"(&E)"
+		"textAlignment"	"east"
+		"Command"		"openloadout"
+		"border_default"	""
+		"border_armed"		""
+		"paintbackground"	"0"
+		"font"			"HudFontSmallestBold"
+		"fgcolor"			"Highlight"
+			"defaultFgColor_override" "Highlight"
+		"armedFgColor_override" "Highlight"
+		"depressedFgColor_override" "Highlight"
+		"selectedFgColor_override" "Highlight"
+	}
+	
 	"ClassMenuSelect1"
 	{
 		"ControlName"	"CExLabel"
