@@ -1080,7 +1080,7 @@
 		"labelText"		"+"
 		"font"			"DefaultLarge"
 		"textAlignment"	"north-east"
-		"textinsety"	"0"
+		"textinsety"	"-1"
 		"textinsetx"	"2"
 		"dulltext"		"0"
 		"brighttext"	"0"
